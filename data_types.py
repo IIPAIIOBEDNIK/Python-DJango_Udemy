@@ -1,0 +1,26 @@
+'''
+int:
+1,2, 3, -1, -2, -3
+
+float:
+1.1, 1.7, 3.14, 3.0
+
+str:
+'Hello world'
+
+list:
+[1, 3.14, 'hello']
+
+dict:
+{'alex' : '123', 'anna' : '321'}
+
+tuple: #Неизменяемый список(неизменяемый list)
+(1, 3.14, 'Hello')
+
+set:
+{'a', 'b', 'c'}
+
+bool:
+True
+False
+'''
